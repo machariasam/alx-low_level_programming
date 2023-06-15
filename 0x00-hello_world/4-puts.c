@@ -1,5 +1,7 @@
 #include<stdio.h>
-/* includes standard input output operations */
+/** 
+ * includes standard input output operations 
+ */
 int main(void)
 {
 
