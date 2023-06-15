@@ -2,7 +2,7 @@
 
 /**
  * The main function of the program.
- * It prints a message to the console.
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
