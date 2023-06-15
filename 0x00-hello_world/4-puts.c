@@ -1,11 +1,12 @@
-#include<stdio.h>
-/** 
- * includes standard input output operations 
-*/
+#include <stdio.h>
+
+/**
+ * The main function of the program.
+ * It prints a message to the console.
+ */
 int main(void)
 {
+    puts("\"Programming is like building a multilingual puzzle");
 
-puts("\"Programming is like building a multilingual puzzle");
-
-return (0);
+    return 0;
 }
