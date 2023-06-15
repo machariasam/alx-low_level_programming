@@ -1,7 +1,7 @@
 #include<stdio.h>
 /** 
  * includes standard input output operations 
- */
+*/
 int main(void)
 {
 
